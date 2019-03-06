@@ -9,7 +9,7 @@ namespace ProductExplorer.Filters
     /// TODO:
     ///     dodać logowanie wyjątku.
     /// </summary>
-    public class BadRequestFilter : IExceptionFilter
+    public class NotFoundRequestFilter : IExceptionFilter
     {
         public void OnException(ExceptionContext context)
         {

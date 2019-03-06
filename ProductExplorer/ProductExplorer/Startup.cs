@@ -27,7 +27,7 @@ namespace ProductExplorer
 
             services.AddMvc(o =>
             {
-                o.Filters.Add<BadRequestFilter>();
+                o.Filters.Add<NotFoundRequestFilter>();
             })
             .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
