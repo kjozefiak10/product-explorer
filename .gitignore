@@ -3,3 +3,5 @@
 ################################################################################
 
 /ProductExplorer/.vs
+/ProductExplorer/ProductExplorer.EfModel/bin/Debug/netcoreapp2.1
+/ProductExplorer/ProductExplorer.EfModel/obj
