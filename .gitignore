@@ -5,3 +5,8 @@
 /ProductExplorer/.vs
 /ProductExplorer/ProductExplorer.EfModel/bin/Debug/netcoreapp2.1
 /ProductExplorer/ProductExplorer.EfModel/obj
+/ProductExplorer/ArgumentException.Tests/obj
+/ProductExplorer/ProductExplorer.DAL/bin/Debug/netcoreapp2.1
+/ProductExplorer/ProductExplorer.DAL/obj
+/ProductExplorer/ProductExplorer.Tests/bin/Debug/netcoreapp2.1
+/ProductExplorer/ProductExplorer.Tests/obj
